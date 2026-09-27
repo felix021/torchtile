@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Torch Tile</string>
+    <string name="tile_label">手电筒</string>
+    <string name="level_panel_title">手电筒亮度</string>
+</resources>
